@@ -1,1 +1,8 @@
-# mortal-kombat
+# Mortal Kombat - учебный проект Glo Academy
+##Выполнил- Сулимов Андрей
+###Технологии:
+HTML
+CSS
+Normalize
+jQuery
+fancybox (jQuery)
